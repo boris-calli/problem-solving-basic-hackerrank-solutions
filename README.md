@@ -37,7 +37,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [031 - Beautiful Days at the Movies](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/031-BeautifulDaysAtTheMovies.js) --- [Problem-Solving Video](https://youtu.be/YK9ZY3LMoOI?si=AQJfTpO1pj_rXSRm)
 - [032 - Viral Advertising](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/032-ViralAdvertising.js) --- [Problem-Solving Video](https://youtu.be/BJy35fyEZoY?si=qjegwmx0Xg7Fy3Vu)
 - [033 - Save the Prisioner!](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/033-SaveThePrisioner!.js) --- [Problem-Solving Video](https://youtu.be/zXojCImFvWA?si=hdbbp97YiSR-W6jK)
-- [034 - Circular Array Rotation]() --- [Problem-Solving Video]()
+- [034 - Circular Array Rotation]() --- [Problem-Solving Video](https://youtu.be/WJNiE-7px1M)
 - [035 - Sequence Equation]() --- [Problem-Solving Video]()
 - [036 - Jumping on the Clouds]() --- [Problem-Solving Video]()
 - [037 - Jumping on the Clouds Revisited]() --- [Problem-Solving Video]()
