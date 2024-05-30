@@ -40,7 +40,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [034 - Circular Array Rotation](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/034-CircularArrayRotation.js) --- [Problem-Solving Video](https://youtu.be/WJNiE-7px1M)
 - [035 - Sequence Equation]() --- [Problem-Solving Video]()
 - [036 - Jumping on the Clouds]() --- [Problem-Solving Video]()
-- [037 - Jumping on the Clouds Revisited]() --- [Problem-Solving Video]()
+- [037 - Jumping on the Clouds Revisited](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/037-JumpingOnTheCloudsRevisited.js) --- [Problem-Solving Video](https://youtu.be/l2tZbAe-tmE)
 - [038 - Find Digits]() --- [Problem-Solving Video]()
 - [039 - Append and Delete]() --- [Problem-Solving Video]()
 - [040 - Sherlock and Squares]() --- [Problem-Solving Video]()
