@@ -43,7 +43,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [037 - Jumping on the Clouds Revisited](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/037-JumpingOnTheCloudsRevisited.js) --- [Problem-Solving Video](https://youtu.be/l2tZbAe-tmE)
 - [038 - Find Digits](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/038-FindDigits.js) --- [Problem-Solving Video](https://youtu.be/YmOFnr-eYVE)
 - [039 - Append and Delete]() --- [Problem-Solving Video]()
-- [040 - Sherlock and Squares]() --- [Problem-Solving Video]()
+- [040 - Sherlock and Squares](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/040-SherlockAndSquares.js) --- [Problem-Solving Video](https://youtu.be/lrUZv39CBIk)
 - [041 - Library Fine]() --- [Problem-Solving Video]()
 - [042 - Cut the sticks]() --- [Problem-Solving Video]()
 - [043 - Repeated String]() --- [Problem-Solving Video]()
