@@ -44,7 +44,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [038 - Find Digits](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/038-FindDigits.js) --- [Problem-Solving Video](https://youtu.be/YmOFnr-eYVE)
 - [039 - Append and Delete]() --- [Problem-Solving Video]()
 - [040 - Sherlock and Squares](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/040-SherlockAndSquares.js) --- [Problem-Solving Video](https://youtu.be/lrUZv39CBIk)
-- [041 - Library Fine]() --- [Problem-Solving Video]()
+- [041 - Library Fine](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/041-LibraryFine.js) --- [Problem-Solving Video](https://youtu.be/WVNwL_L1T9Y)
 - [042 - Cut the sticks]() --- [Problem-Solving Video]()
 - [043 - Repeated String]() --- [Problem-Solving Video]()
 - [044 - Equalize the Array]() --- [Problem-Solving Video]()
