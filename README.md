@@ -46,7 +46,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [040 - Sherlock and Squares](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/040-SherlockAndSquares.js) --- [Problem-Solving Video](https://youtu.be/lrUZv39CBIk)
 - [041 - Library Fine](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/041-LibraryFine.js) --- [Problem-Solving Video](https://youtu.be/WVNwL_L1T9Y)
 - [042 - Cut the sticks](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/042-CutTheSticks.js) --- [Problem-Solving Video](https://youtu.be/JA4WG72K2EA)
-- [043 - Repeated String]() --- [Problem-Solving Video]()
+- [043 - Repeated String](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/043-RepeatedString.js) --- [Problem-Solving Video](https://youtu.be/uK8UAMaqt6E)
 - [044 - Equalize the Array]() --- [Problem-Solving Video]()
 - [045 - ACM ICPC Team]() --- [Problem-Solving Video]()
 - [046 - Taum and B'Day]() --- [Problem-Solving Video]()
