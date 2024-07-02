@@ -49,7 +49,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [043 - Repeated String](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/043-RepeatedString.js) --- [Problem-Solving Video](https://youtu.be/uK8UAMaqt6E)
 - [044 - Equalize the Array](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/044-EqualizeTheArray.js) --- [Problem-Solving Video](https://youtu.be/KgDXeAnfOwA?si=7J3FFN1h2xyR0mcV)
 - [045 - ACM ICPC Team](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/045-ACMICPCTeam.js) --- [Problem-Solving Video](https://youtu.be/unWSlyxuaas)
-- [046 - Taum and B'Day]() --- [Problem-Solving Video]()
+- [046 - Taum and B'Day](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/046-TaumAndB'Day.js) --- [Problem-Solving Video](https://youtu.be/2YN_k10dz4A)
 - [047 - Modified Kaprekar Numbers]() --- [Problem-Solving Video]()
 - [048 - Beautiful Triplets]() --- [Problem-Solving Video]()
 - [049 - Minimum Distances]() --- [Problem-Solving Video]()
