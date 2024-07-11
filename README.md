@@ -52,7 +52,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [046 - Taum and B'Day](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/046-TaumAndB'Day.js) --- [Problem-Solving Video](https://youtu.be/2YN_k10dz4A)
 - [047 - Modified Kaprekar Numbers](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/047-ModifiedKaprekarNumbers.js) --- [Problem-Solving Video](https://youtu.be/oXVW4tuVmrA)
 - [048 - Beautiful Triplets](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/048-BeautifulTriplets.js) --- [Problem-Solving Video](https://youtu.be/a5jNpZIwS1o)
-- [049 - Minimum Distances]() --- [Problem-Solving Video]()
+- [049 - Minimum Distances](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/049-MinimumDistances.js) --- [Problem-Solving Video](https://youtu.be/_hbP6C7E7-4)
 - [050 - Halloween Sale]() --- [Problem-Solving Video]()
 - [051 - Chocolate Feast]() --- [Problem-Solving Video]()
 - [052 - Service Lane]() --- [Problem-Solving Video]()
