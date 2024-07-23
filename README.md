@@ -55,7 +55,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [049 - Minimum Distances](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/049-MinimumDistances.js) --- [Problem-Solving Video](https://youtu.be/_hbP6C7E7-4)
 - [050 - Halloween Sale](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/050-HalloweenSale.js) --- [Problem-Solving Video](https://youtu.be/Gm9HmOV2pTg)
 - [051 - Chocolate Feast](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/051-ChocolateFeast.js) --- [Problem-Solving Video](https://youtu.be/8FESFTApsAE)
-- [052 - Service Lane]() --- [Problem-Solving Video]()
+- [052 - Service Lane](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/052-ServiceLane.js) --- [Problem-Solving Video](https://youtu.be/Onu3ypLBwK4)
 - [053 - Lisa's Woorkbook]() --- [Problem-Solving Video]()
 - [054 - Fair Rations]() --- [Problem-Solving Video]()
 - [055 - Cavity Map]() --- [Problem-Solving Video]()
