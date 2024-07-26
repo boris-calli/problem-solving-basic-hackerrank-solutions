@@ -57,7 +57,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [051 - Chocolate Feast](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/051-ChocolateFeast.js) --- [Problem-Solving Video](https://youtu.be/8FESFTApsAE)
 - [052 - Service Lane](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/052-ServiceLane.js) --- [Problem-Solving Video](https://youtu.be/Onu3ypLBwK4)
 - [053 - Lisa's Woorkbook]() --- [Problem-Solving Video]()
-- [054 - Fair Rations]() --- [Problem-Solving Video]()
+- [054 - Fair Rations](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/054-FairRations.js) --- [Problem-Solving Video](https://youtu.be/mysHD2PXjOI)
 - [055 - Cavity Map]() --- [Problem-Solving Video]()
 - [056 - Manasa and Stones]() --- [Problem-Solving Video]()
 - [057 - Happy Ladybugs]() --- [Problem-Solving Video]()
