@@ -59,7 +59,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [053 - Lisa's Woorkbook]() --- [Problem-Solving Video]()
 - [054 - Fair Rations](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/054-FairRations.js) --- [Problem-Solving Video](https://youtu.be/mysHD2PXjOI)
 - [055 - Cavity Map]() --- [Problem-Solving Video]()
-- [056 - Manasa and Stones]() --- [Problem-Solving Video]()
+- [056 - Manasa and Stones](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/056-ManasaAndStones.js) --- [Problem-Solving Video](https://youtu.be/EQvE2GU6Ok4)
 - [057 - Happy Ladybugs]() --- [Problem-Solving Video]()
 - [058 - Strange Counter]() --- [Problem-Solving Video]()
 - [059 - Big Sorting]() --- [Problem-Solving Video]()
