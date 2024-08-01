@@ -61,7 +61,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [055 - Cavity Map]() --- [Problem-Solving Video]()
 - [056 - Manasa and Stones](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/056-ManasaAndStones.js) --- [Problem-Solving Video](https://youtu.be/EQvE2GU6Ok4)
 - [057 - Happy Ladybugs]() --- [Problem-Solving Video]()
-- [058 - Strange Counter]() --- [Problem-Solving Video]()
+- [058 - Strange Counter](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/058-StrangeCounter.js) --- [Problem-Solving Video](https://youtu.be/zEQXImWNJJk)
 - [059 - Big Sorting]() --- [Problem-Solving Video]()
 - [060 - ]() --- [Problem-Solving Video]()
 ### Level Intermediate
