@@ -22,7 +22,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [016 - Subarray Division](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/016-SubarrayDivision.js) --- [Problem-Solving Video](https://youtu.be/XRLyggabH6o?si=RXoVxkGuydlUZEc-)
 - [017 - Divisible Sum Pairs](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/017-DivisibleSumPairs.js) --- [Problem-Solving Video](https://youtu.be/3EHO26IgM04?si=DBa4bUVirNRU7LXs)
 - [018 - Migratory Birds](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/018-MigratoryBirds.js) --- [Problem-Solving Video](https://youtu.be/uwplcoin-w0?si=0I_foAGd5U9TuZX_)
-- [019 - Day of the Programmer]() --- [Problem-Solving Video]()
+- [019 - Day of the Programmer](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/019-DayOfTheProgrammer.js) --- [Problem-Solving Video](https://youtu.be/zJ-F-obdWuo)
 - [020 - Bill Division](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/020-BillDivision.js) --- [Problem-Solving Video](https://youtu.be/4G70rKtCN1U?si=1ImmXxS8oLNS5c5S)
 - [021 - Sales by Match](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/021-SalesByMatch.js) --- [Problem-Solving Video](https://youtu.be/Z6ONl4P8eu0?si=kekex1b0BdDBXVJD)
 - [022 - Drawing Book](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/022-DrawingBook.js) --- [Problem-Solving Video](https://youtu.be/fAb_n9_WRFo?si=r61TCUcw8WPe2zVw)
