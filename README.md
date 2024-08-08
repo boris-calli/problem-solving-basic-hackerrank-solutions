@@ -38,7 +38,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [032 - Viral Advertising](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/032-ViralAdvertising.js) --- [Problem-Solving Video](https://youtu.be/BJy35fyEZoY?si=qjegwmx0Xg7Fy3Vu)
 - [033 - Save the Prisioner!](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/033-SaveThePrisioner!.js) --- [Problem-Solving Video](https://youtu.be/zXojCImFvWA?si=hdbbp97YiSR-W6jK)
 - [034 - Circular Array Rotation](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/034-CircularArrayRotation.js) --- [Problem-Solving Video](https://youtu.be/WJNiE-7px1M)
-- [035 - Sequence Equation]() --- [Problem-Solving Video]()
+- [035 - Sequence Equation](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/035-SequenceEquation.js) --- [Problem-Solving Video](https://youtu.be/Ncz20ddce9A)
 - [036 - Jumping on the Clouds](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/036-JumpingOnTheClouds.js) --- [Problem-Solving Video](https://youtu.be/PP6IcHILxwM)
 - [037 - Jumping on the Clouds Revisited](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/037-JumpingOnTheCloudsRevisited.js) --- [Problem-Solving Video](https://youtu.be/l2tZbAe-tmE)
 - [038 - Find Digits](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/038-FindDigits.js) --- [Problem-Solving Video](https://youtu.be/YmOFnr-eYVE)
