@@ -64,7 +64,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [058 - Strange Counter](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/058-StrangeCounter.js) --- [Problem-Solving Video](https://youtu.be/zEQXImWNJJk)
 - [059 - Big Sorting]() --- [Problem-Solving Video]()
 - [060 - Intro to Tutorial Challenges]() --- [Problem-Solving Video]()
-- [061 - Camel Case]() --- [Problem-Solving Video]()
+- [061 - CamelCase](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/061-CamelCase.js) --- [Problem-Solving Video](https://youtu.be/X93MHEt2Xmk)
 - [062 - Insertion Sort - Part 1]() --- [Problem-Solving Video]()
 - [063 - Insertion Sort - Part 2]() --- [Problem-Solving Video]()
 - [064 - Strong Password]() --- [Problem-Solving Video]()
