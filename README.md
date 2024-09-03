@@ -74,7 +74,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [068 - Running Time of Algorithms]() --- [Problem-Solving Video]()
 - [069 - HackerRank in a String!]() --- [Problem-Solving Video]()
 - [070 - Quicksort 1 - Partition]() --- [Problem-Solving Video]()
-- [071 - Pangrams]() --- [Problem-Solving Video]()
+- [071 - Pangrams](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/071-Pangrams.js) --- [Problem-Solving Video](https://youtu.be/eDJAc2NRnlk)
 - [072 - Separate the Numbers]() --- [Problem-Solving Video]()
 - [073 - Funny String]() --- [Problem-Solving Video]()
 - [074 - Counting Sort 1]() --- [Problem-Solving Video]()
