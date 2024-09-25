@@ -83,7 +83,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [077 - Alternating Characters](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/077-AlternatingCharacters.js) --- [Problem-Solving Video](https://youtu.be/mJlILDJO9CA)
 - [078 - Beautiful Binary String]() --- [Problem-Solving Video]()
 - [079 - Closest Numbers]() --- [Problem-Solving Video]()
-- [080 - The Love-Letter Mistery]() --- [Problem-Solving Video]()
+- [080 - The Love-Letter Mistery](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/080-TheLove-LetterMistery.js) --- [Problem-Solving Video](https://youtu.be/mIX4u92DM0M?si=DxJCtBb1tfek7d4N)
 - [081 - Find the Median]() --- [Problem-Solving Video]()
 - [082 - Palindrome Index]() --- [Problem-Solving Video]()
 - [083 - Anagram]() --- [Problem-Solving Video]()
