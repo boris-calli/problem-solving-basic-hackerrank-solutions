@@ -94,7 +94,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [088 - Missing Numbers]() --- [Problem-Solving Video]()
 - [089 - Sherlock and Array]() --- [Problem-Solving Video]()
 - [090 - Minimum Absolute Difference in an Array]() --- [Problem-Solving Video]()
-- [091 - Marc's Cakewalk]() --- [Problem-Solving Video]()
+- [091 - Marc's Cakewalk](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/091-Marc'sCakewalk.js) --- [Problem-Solving Video](https://youtu.be/1fw8k1w41xY)
 - [092 - Grid Challenge]() --- [Problem-Solving Video]()
 - [093 - Luck Balance]() --- [Problem-Solving Video]()
 - [094 - Maximum Perimeter Triangle]() --- [Problem-Solving Video]()
