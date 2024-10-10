@@ -65,7 +65,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [059 - Big Sorting]() --- [Problem-Solving Video]()
 - [060 - Intro to Tutorial Challenges](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/060-IntroToTutorialChallenges.js) --- [Problem-Solving Video](https://youtu.be/Zm7shNsZLZc)
 - [061 - CamelCase](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/061-CamelCase.js) --- [Problem-Solving Video](https://youtu.be/X93MHEt2Xmk)
-- [062 - Insertion Sort - Part 1]() --- [Problem-Solving Video]()
+- [062 - Insertion Sort - Part 1](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/062-InsertionSort-Part1) --- [Problem-Solving Video](https://youtu.be/G7xPU3kEwYI)
 - [063 - Insertion Sort - Part 2]() --- [Problem-Solving Video]()
 - [064 - Strong Password](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/064-StrongPassword.js) --- [Problem-Solving Video](https://youtu.be/6xrDSvT2X3E)
 - [065 - Correctness and the Loop Invariant]() --- [Problem-Solving Video]()
