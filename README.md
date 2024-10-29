@@ -68,7 +68,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [062 - Insertion Sort - Part 1](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/062-InsertionSort-Part1) --- [Problem-Solving Video](https://youtu.be/G7xPU3kEwYI)
 - [063 - Insertion Sort - Part 2](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/063-InsertionSort-Part2.js) --- [Problem-Solving Video](https://youtu.be/m1Ub85r-bMc)
 - [064 - Strong Password](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/064-StrongPassword.js) --- [Problem-Solving Video](https://youtu.be/6xrDSvT2X3E)
-- [065 - Correctness and the Loop Invariant]() --- [Problem-Solving Video]()
+- [065 - Correctness and the Loop Invariant](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/065-CorrectnessAndTheLoopInvariant.js) --- [Problem-Solving Video](https://youtu.be/QUanwKzPYOA)
 - [066 - Caesar Cipher](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/066-CaesarCipher.js) --- [Problem-Solving Video](https://youtu.be/IkNYBFg7ZmE)
 - [067 - Mars Exploration](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/067-MarsExploration.js) --- [Problem-Solving Video](https://youtu.be/UxOk3GqbSRY)
 - [068 - Running Time of Algorithms]() --- [Problem-Solving Video]()
