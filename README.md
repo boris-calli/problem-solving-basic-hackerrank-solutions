@@ -71,7 +71,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [065 - Correctness and the Loop Invariant](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/065-CorrectnessAndTheLoopInvariant.js) --- [Problem-Solving Video](https://youtu.be/QUanwKzPYOA)
 - [066 - Caesar Cipher](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/066-CaesarCipher.js) --- [Problem-Solving Video](https://youtu.be/IkNYBFg7ZmE)
 - [067 - Mars Exploration](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/067-MarsExploration.js) --- [Problem-Solving Video](https://youtu.be/UxOk3GqbSRY)
-- [068 - Running Time of Algorithms]() --- [Problem-Solving Video]()
+- [068 - Running Time of Algorithms](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/068-RunningTimeOfAlgorithms.js) --- [Problem-Solving Video](https://youtu.be/3Fn6pAamOuo)
 - [069 - HackerRank in a String!]() --- [Problem-Solving Video]()
 - [070 - Quicksort 1 - Partition]() --- [Problem-Solving Video]()
 - [071 - Pangrams](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/071-Pangrams.js) --- [Problem-Solving Video](https://youtu.be/eDJAc2NRnlk)
