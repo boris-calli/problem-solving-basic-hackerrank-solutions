@@ -141,4 +141,4 @@ Also my native language is spanish so my youtube channel is in that language.
 - [134 - Recursive Digit Sum](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Medium/134-RecursiveDigitSum.js) --- [Problem-Solving Video](https://youtu.be/LqdlEYy8ymw)
 - [135 - Prime Dates]() --- [Problem-Solving Video]()
 - [136 - Zig Zag Sequence]() --- [Problem-Solving Video]()
-- [137 - Quicksort In-Place]() --- [Problem-Solving Video]()
+- [137 - Quicksort In-Place](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Medium/137-QuicksortIn-Place.js) --- [Problem-Solving Video]()https://youtu.be/EqWm6lYFn2Q
