@@ -75,7 +75,7 @@ Also my native language is spanish so my youtube channel is in that language.
 - [069 - HackerRank in a String!]() --- [Problem-Solving Video]()
 - [070 - Quicksort 1 - Partition](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/070-Quicksort1-Partition.js) --- [Problem-Solving Video](https://youtu.be/gz4ZQXjDYDw)
 - [071 - Quicksort 2 - Sorting](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/071-Quicksort2-Sorting.js) --- [Problem-Solving Video](https://youtu.be/Yms2-aTwjoA)
-- [072 - Running Time of Quicksort]() --- [Problem-Solving Video]()
+- [072 - Running Time of Quicksort](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/072-RunningTimeofQuickSort.js) --- [Problem-Solving Video](https://youtu.be/Q5hJuyyR_RY)
 - [073 - Pangrams](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/073-Pangrams.js) --- [Problem-Solving Video](https://youtu.be/eDJAc2NRnlk)
 - [074 - Separate the Numbers]() --- [Problem-Solving Video]()
 - [075 - Funny String](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/075-FunnyString.js) --- [Problem-Solving Video](https://youtu.be/eSy9L4FZe0Q)
