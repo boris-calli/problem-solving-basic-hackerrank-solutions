@@ -79,9 +79,9 @@ Also my native language is spanish so my youtube channel is in that language.
 - [073 - Pangrams](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/073-Pangrams.js) --- [Problem-Solving Video](https://youtu.be/eDJAc2NRnlk)
 - [074 - Separate the Numbers]() --- [Problem-Solving Video]()
 - [075 - Funny String](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/075-FunnyString.js) --- [Problem-Solving Video](https://youtu.be/eSy9L4FZe0Q)
-- [076 - Counting Sort 1]() --- [Problem-Solving Video]()
-- [077 - Counting Sort 2]() --- [Problem-Solving Video]()
-- [078 - Counting Sort 3]() --- [Problem-Solving Video]()
+- [076 - Counting Sort 1](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/076-CountingSort1.js) --- [Problem-Solving Video](https://youtu.be/sLas8c1i5OE)
+- [077 - Counting Sort 2](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/077-CountingSort2.js) --- [Problem-Solving Video](https://youtu.be/8hKrKOOdQW8)
+- [078 - Counting Sort 3](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/078-CountingSort3.js) --- [Problem-Solving Video](https://youtu.be/SdV83WMxcGQ)
 - [079 - Gemstones](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/079-Gemstones.js) --- [Problem-Solving Video](https://youtu.be/-8ZbxcLSlhI)
 - [080 - Alternating Characters](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Easy/080-AlternatingCharacters.js) --- [Problem-Solving Video](https://youtu.be/mJlILDJO9CA)
 - [081 - Beautiful Binary String]() --- [Problem-Solving Video]()
@@ -141,4 +141,4 @@ Also my native language is spanish so my youtube channel is in that language.
 - [134 - Recursive Digit Sum](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Medium/134-RecursiveDigitSum.js) --- [Problem-Solving Video](https://youtu.be/LqdlEYy8ymw)
 - [135 - Prime Dates]() --- [Problem-Solving Video]()
 - [136 - Zig Zag Sequence]() --- [Problem-Solving Video]()
-- [137 - Quicksort In-Place](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Medium/137-QuicksortIn-Place.js) --- [Problem-Solving Video]()https://youtu.be/EqWm6lYFn2Q
+- [137 - Quicksort In-Place](https://github.com/boris-calli/problem-solving-basic-hackerrank-solutions/blob/main/Medium/137-QuicksortIn-Place.js) --- [Problem-Solving Video](https://youtu.be/EqWm6lYFn2Q)
